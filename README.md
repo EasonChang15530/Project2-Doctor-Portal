@@ -6,8 +6,6 @@ Doctor Portal is a full stack application that has a concise and well-structured
  
 > Deployed Link: [See Here](https://doc-portal.herokuapp.com/)
 
-> Repository: [See Here](https://github.com/purpetrator/Project2)
-
 ## How to Use
 
 #### Demo accounts:
